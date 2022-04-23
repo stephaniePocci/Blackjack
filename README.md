@@ -1,7 +1,7 @@
 # Blackjack
 ## This is a simple in-console Blackjack game I developed for my game development class.
 ### <p> How To Download This Repository: </p>
-1) Download the repository to your local files:
+#### 1) Download the repository to your local files:
 - Click the green-highlighted button that says **Code**
 - From the drop-down, copy & paste the URL given.
 - In your command terminal, navigate to the location you desire to download it.
@@ -14,10 +14,10 @@
 > - Then, type **$ sudo apt-get install git**.
 > - To verify it has been downloaded, type **$ git --version** to view the version type you have downloaded.
 > - If the download was unsuccessful, you will instead get an error saying it was unable to be found.
-2) Navigate into the project folder:
+#### 2) Navigate into the project folder:
 - In the command terminal, use **cd <FolderName>** without the <> to access the Blackjack folder.
 - You should see a file labeled blackjack.py.
-3) Run the game: 
+#### 3) Run the game:
 - If the blackjack.py file is not bolded, you will need to compile it.
 > - You can compile this by typing **chmod u+x blackjack.py**.
 > - If it is already bolded, you may now run the game by typing **./blackjack.py** in your command terminal.

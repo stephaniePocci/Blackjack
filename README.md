@@ -14,10 +14,10 @@
 > - Then, type **$ sudo apt-get install git**.
 > - To verify it has been downloaded, type **$ git --version** to view the version type you have downloaded.
 > - If the download was unsuccessful, you will instead get an error saying it was unable to be found.
-<p> 2) Navigate into the project folder: </p>
+2) Navigate into the project folder:
 - In the command terminal, use **cd <FolderName>** without the <> to access the Blackjack folder.
 - You should see a file labeled blackjack.py.
-<p> 3) Run the game: </p>
+3) Run the game: 
 - If the blackjack.py file is not bolded, you will need to compile it.
 > - You can compile this by typing **chmod u+x blackjack.py**.
 > - If it is already bolded, you may now run the game by typing **./blackjack.py** in your command terminal.
